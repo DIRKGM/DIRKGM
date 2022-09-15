@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @DIRKGM
+- 👋 Instagram: Its_Dirk
+- 👋 TikTok: Its_Dirk2
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on great projects
