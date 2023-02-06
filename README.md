@@ -2,7 +2,7 @@
 - 👋 Instagram: Its_Dirk
 - 👋 TikTok: Its_Dirk2
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React
+- 🌱 I´m currently doing an advanced training to become a web application developer
 - 💞️ I’m looking to collaborate on great projects
 - 📫 How to reach me on kontakt@dirkgm.de
 
