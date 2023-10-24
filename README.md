@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DIRKGM
-- 👋 Instagram: Its_Dirk
-- 👋 TikTok: Its_Dirk2
+- 👋 Instagram: Dirk.Meyer.EM
 - 👀 I’m interested in Frontend Development
-- 🌱 Currently i am learning java 
+- 🌱 Currently i am learning App Developmet (iOS)
 - 💞️ I’m looking to collaborate on great projects
 - 📫 How to reach me on kontakt@dirkgm.de
 
