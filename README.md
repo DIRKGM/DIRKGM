@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @DIRKGM
+ - 👋 Hi, I’m @DIRKGM
 - 👋 Instagram: Dirk.Meyer.EM
-- 👀 I’m interested in Frontend Development
 - 🌱 Currently i am learning App Developmet (iOS)
 - 💞️ I’m looking to collaborate on great projects
 - 📫 How to reach me on kontakt@dirkgm.de
