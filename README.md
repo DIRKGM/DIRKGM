@@ -13,4 +13,5 @@
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dirkgm&theme=darkhub&frame=false&no-bg=true&margin-w=4)
 
+#
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
