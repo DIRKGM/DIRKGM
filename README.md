@@ -1,5 +1,4 @@
 # 🚀 About Me:
-
 👋 Hi, I’m @DIRKGM <br>
 👋 Instagram: Dirk.Meyer.EM <br>
 🌱 Currently i am learning App Developmet (iOS)<br>
