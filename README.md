@@ -1,5 +1,5 @@
 # 🚀 About Me
-👋 Hi, I’m @DIRKGM <br>
+👋 Hi, I’m Dirk <br>
 🌱 I work permanently on my skills <br>
 📖 Currently i am learning App Developmet (iOS)<br>
 💬 For questions just ask me <br>
