@@ -1,6 +1,7 @@
 # 🚀 About Me
 👋 Hi, I’m @DIRKGM <br>
-🌱 Currently i am learning App Developmet (iOS)<br>
+🌱 I work permanently on my skills <br>
+📖 Currently i am learning App Developmet (iOS)<br>
 💬 For questions just ask me <br>
 📫 How to reach me on kontakt@dirkgm.de<br>
 
