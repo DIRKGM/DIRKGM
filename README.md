@@ -1,4 +1,3 @@
-# 👋 About Me
 👋 Hi, I’m Dirk <br>
 🌱 I work permanently on my skills <br>
 📖 Currently i am learning App Developmet (iOS)<br>
