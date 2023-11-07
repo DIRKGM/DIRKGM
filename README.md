@@ -8,7 +8,7 @@
 # 🌎 Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/dirk.meyer.em](https://www.instagram.com/dirk.meyer.em/)) 
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/dirk.meyer.em) 
-[<img src= (https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white) />](https://twitter.com/dirkmeyerem)
+[<img src="(https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)" />](https://twitter.com/dirkmeyerem)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DirkMeyerEM) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?logo=LinkedIn&logoColor=white)]([www.linkedin.com/in/dirkmeyerem)
 
