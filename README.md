@@ -11,7 +11,7 @@
 [<img src="(https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)" />](https://twitter.com/dirkmeyerem)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DirkMeyerEM) 
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://youtube.com/@DirkMeyerEM)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?logo=LinkedIn&logoColor=white)]([www.linkedin.com/in/dirkmeyerem)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?logo=LinkedIn&logoColor=white)](www.linkedin.com/in/dirkmeyerem)
 
 
 
