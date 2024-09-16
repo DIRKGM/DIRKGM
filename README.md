@@ -1,7 +1,6 @@
 # 🚀 About Me
 👋 Hi, I’m Dirk <br>
 🌱 I work permanently on my skills <br>
-📖 Currently i am learning Mobile Developmet<br>
 💬 For questions just ask me <br>
 📫 How to reach me on kontakt@dirkgm.de<br>
 
