@@ -3,7 +3,7 @@
 🌱 I work permanently on my skills <br>
 💬 For questions just ask me <br>
 🧰 I build with: `Python` `Swift`, `JavaScript`, ...<br>
-⚡ Ich laufe, schwimme und fahre Rennrad (Thriatlon) :)<br>
+⚡ I run, swim and ride a racing bike (Thriatlon) :)<br>
 📫 How to reach me on kontakt@dirkgm.de<br>
 
 # 🌎 Social Media
