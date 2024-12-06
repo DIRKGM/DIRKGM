@@ -2,8 +2,9 @@
 👋 Hi, I’m Dirk <br>
 🌱 I work permanently on my skills <br>
 💬 For questions just ask me <br>
+🧰 I build with: `Python` `Swift`, `JavaScript`, ...<br>
+⚡ Ich laufe, schwimme und fahre Rennrad (Thriatlon) :)<br>
 📫 How to reach me on kontakt@dirkgm.de<br>
-🧰 I build with: `Python` `Swift`, `JavaScript`, ...
 
 # 🌎 Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dirkmeyerde/) 
