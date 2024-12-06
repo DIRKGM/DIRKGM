@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dirkmeyerde)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/dirkmeyerem)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dirkmeyerde)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/@dirkmeyerde)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCsU5iMyToAkskCOPQ6XJg0g)
 
 
 # 👨‍💻 Tech Stack
