@@ -2,7 +2,7 @@
 👋 Hi, I’m Dirk <br>
 🌱 I work permanently on my skills <br>
 💬 For questions just ask me <br>
-🧰 I build with: `Python`, `Swift`, ...<br>
+🧰 I build with: `Python`, `JavaScript`, ...<br>
 ⚡ I run, swim and ride a racing bike (Thriatlon) :)<br>
 📫 How to reach me on kontakt@dirkgm.de<br>
 
